@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Editor from "@monaco-editor/react";
-import { Copy, Check, FileCode, Play, Terminal, RotateCcw } from "lucide-react";
+import { Copy, Check, Play, Terminal, RotateCcw } from "lucide-react";
 
 interface EditorContainerProps {
   jsonInput: string;
