@@ -2,7 +2,7 @@
 
 A highly efficient, IDE-style web tool designed to instantly translate JSON objects into fully formatted, production-ready TypeScript interfaces or type aliases in real-time. 
 
-**Demo Link:** [json-to-ts-converter-qishnqy2d-muhammad-maulana-yusufs-projects.vercel.app](https://json-to-ts-converter-qishnqy2d-muhammad-maulana-yusufs-projects.vercel.app/)
+**Demo Link:** [https://json-to-ts-converter-xi.vercel.app/]
 
 ---
 
